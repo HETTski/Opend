@@ -132,3 +132,4 @@ dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
 # Opend
+# Opend
